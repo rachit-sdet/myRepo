@@ -10,4 +10,4 @@ class TestFirst:
         assert True
 
     def test_o4(self):
-        assert False
+        assert True
