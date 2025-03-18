@@ -8,3 +8,5 @@ allure-pytest
 pymongo
 pytz
 pytest-timeout
+pytest-html-reporter
+allure-pytest
